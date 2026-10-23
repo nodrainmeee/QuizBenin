@@ -1,0 +1,16 @@
+QUIZ BENIN - Projet Android complet
+
+OPTION A (avec un ordinateur) :
+1. Installe Android Studio (gratuit).
+2. Dézippe ce dossier, puis File > Open > choisis le dossier QuizBenin.
+3. Attends la fin de la synchronisation Gradle.
+4. Branche ton téléphone (Débogage USB activé) et clique sur Run (triangle vert).
+   Ou : Build > Build APK(s) -> app/build/outputs/apk/debug/app-debug.apk
+
+OPTION B (sans ordinateur, depuis le téléphone) :
+1. Crée un compte sur github.com et un nouveau dépôt (repository).
+2. Envoie tous les fichiers de ce dossier dedans (Add file > Upload files),
+   en gardant les dossiers (dont .github/workflows).
+3. Onglet "Actions" : la compilation démarre toute seule (~5 min).
+4. Clique sur le build terminé (coche verte) > télécharge "QuizBenin-apk".
+5. Dézippe, ouvre app-debug.apk, autorise "Installer des applis inconnues".
